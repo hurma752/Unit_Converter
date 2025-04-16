@@ -1,6 +1,6 @@
 import streamlit as st
 
-# 🎯 Function to convert units
+# Function to convert units
 def convert_units(value, from_unit, to_unit):
     convertions = {
     # Length conversions
